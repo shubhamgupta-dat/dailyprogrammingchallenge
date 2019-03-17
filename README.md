@@ -1,2 +1,2 @@
-# dailyprogrammingchallenge
-Solutions on daily programming challenge
+# Daily Programming Challenge
+Solutions on daily programming challenge hosted by www.dailyprogrammingchallenge.com
