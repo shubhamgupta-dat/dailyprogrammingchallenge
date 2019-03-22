@@ -1,4 +1,4 @@
-#Day 004 Problem
+# Day 004 Problem
 
 This problem was asked by Stripe.
 
